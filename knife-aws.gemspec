@@ -21,8 +21,8 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'rb-readline'
 
   gem.add_development_dependency 'bundler'
-  gem.add_development_dependency 'rake'
-  gem.add_development_dependency 'rspec'
+#  gem.add_development_dependency 'rake'
+#  gem.add_development_dependency 'rspec'
   gem.add_development_dependency 'chef'
 
   gem.require_paths = ["lib"]
